@@ -23,6 +23,6 @@ function averageOddNumber(arrayNumbers) {
     return average;
 }
 
-const array = [1, 4, 3, 8, 5, 13]
+const array = [0, 1, 4, 3, 0, 8, 5, 13,0]
 const result = averageOddNumber(array)
 console.log(result)
