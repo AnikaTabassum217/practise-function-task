@@ -1,4 +1,4 @@
- // Using Array Destructuring
+ // Using 
 
 let x=4;
 let y=2.5;
