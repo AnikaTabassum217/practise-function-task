@@ -14,6 +14,6 @@ function bigNumber(numbers){
     return maxNumber
 }
 
-const array=[20,65,39,13,78,7];
+const array=[20,65,39,13,100,78,79];
 const result=bigNumber(array);
 console.log(result)

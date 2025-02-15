@@ -13,6 +13,6 @@ function smallNumber(numbers){
     return minNumber;
 
 }
-const array=[20,65,39,13,78,7];
+const array=[20,-2,65,1,39,13,78,7];
 const result=smallNumber(array)
  console.log(result)
