@@ -24,7 +24,7 @@ function calculator(a,b,operation){
 
          if(operation ==='add'){
             const output=add(a,b)
-            return output;
+             return output;
          }
 
          if(operation ==='substraction'){
@@ -43,5 +43,5 @@ function calculator(a,b,operation){
          }
 }
 
-const finalResult=calculator(10,2,'division')
+const finalResult=calculator(10,2,'add')
 console.log(finalResult)
