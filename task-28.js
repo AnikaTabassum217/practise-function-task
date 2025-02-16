@@ -1,4 +1,4 @@
-/*Discounted Price: 
+/*Normal Discounted Price: 
 
 Ticket Price is 100. If you buy 100 ticket. No discount.
 
