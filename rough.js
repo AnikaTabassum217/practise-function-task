@@ -4,12 +4,6 @@ sample-input: I am learning Programming to become a programmer
 sample-output: Programming
 */
 
-/*
-Write a function to find the longest word in a given string.
-sample-input: I am learning Programming to become a programmer
-sample-output: Programming
-*/
-
 function longestWord(string) {
 
     const splitString = string.split(' ');
@@ -30,5 +24,4 @@ function longestWord(string) {
 const string = 'I am learning Programming to become a programmer'
 const result = longestWord(string)
 console.log(result)
-
 
